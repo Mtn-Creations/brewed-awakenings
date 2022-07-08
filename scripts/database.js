@@ -111,7 +111,7 @@ const database = {
     }, {
         id: 11, productId: 4, employeeId: 1, timestamp: 1612338112396
     }, {
-        id: 12, productId: 6, employeeId: 11, timestamp: 1612238112396
+        id: 12, productId: 6, employeeId: 2, timestamp: 1612238112396 /* employeeId incorrectly set to 11; changed to 2 */
     }, {
         id: 13, productId: 10, employeeId: 8, timestamp: 1630538112396
     }, {
